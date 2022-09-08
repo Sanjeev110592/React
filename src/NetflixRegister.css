@@ -1,0 +1,15 @@
+.register{
+    text-align: center;
+}
+p{
+    color: white;
+    font-style: bold;
+}
+#email{
+    /* height: 50px; */
+    width: 400px;
+    padding: 20px;
+}
+.btn{
+    padding: 17px;
+}

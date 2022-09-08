@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.main div{
+    width: 700px;
+    text-align: center;
+}
+h2{
+    font-size: 56px;
+    font-style: bold;
+}
+p{
+    text-align: center;
+    font-size: 24px;
+}

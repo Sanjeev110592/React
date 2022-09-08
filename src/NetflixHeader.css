@@ -1,0 +1,36 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.signIn{
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+}
+select{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button{
+    font-size: 20px;
+    padding: 5px;
+    background-color: red;
+    border-radius: 5px;
+
+}
+span{
+    font-size: 46px;
+    color: red;
+    font-style: bold;
+}
+
+
+button{
+    background-color: red;
+}
