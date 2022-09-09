@@ -1,0 +1,7 @@
+ol{
+    width: 200px;
+    height: 80px;
+    border: 2px solid red;
+    overflow: auto;
+    padding: 20px;
+}
