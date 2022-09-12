@@ -10,6 +10,19 @@
 table ,td,th{
     border: 1px solid black;
 }
-.card{
+.parent{
     display: flex;
+    width: 100vw;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    border: 1px solid pink;
+    border-radius: 5px;
+    width: 200px;
+}
+button{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
 }
