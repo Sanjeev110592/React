@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Discription } from './components/Discription';
-import { Categroise } from './components/MapinReact';
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Categroise/>
+    <Discription/>
   </React.StrictMode>
 );
 
