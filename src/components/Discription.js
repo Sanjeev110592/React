@@ -2,7 +2,7 @@
 import "./Disxription.css";
 export function Discription(){
     let arr = [
-        {category:"electronics", products:["radoio","tv","mobile","laptop"]},
+        {category:"electronics", products:["radio","tv","mobile","laptop"]},
         {category:"fashion", products:["cap","goggles","t-shirts","umbrella"]}
     ];
     const products = [
