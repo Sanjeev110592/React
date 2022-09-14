@@ -4,7 +4,7 @@ import {useState} from 'react'
 
 export function DataBinding(){
     let [items,setItems] = useState({Name:"tv",Price:"0.0",Stock:true,City:"Lucknow",Rating:"4.5"})
-    let City = ["Lucknow","Kanpur","Varansi","Allahabad","Bareilly","Hydrabad","Nagpur","mumbai"]
+    let City = ["Lucknow","Kanpur","Varanasi","Allahabad","Bareilly","Hydrabad","Nagpur","mumbai"]
 
     function handleName(event){
         setItems({
